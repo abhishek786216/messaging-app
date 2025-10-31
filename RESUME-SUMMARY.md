@@ -88,6 +88,17 @@
 
 ---
 
+## 🔗 Project Links
+
 **GitHub Repository**: https://github.com/abhishek786216/messaging-app  
-**Live Demo**: Available for Android APK download from repository  
+**Live Demo Page**: https://abhishek786216.github.io/messaging-app/  
+**APK Download**: Available from GitHub releases  
 **Documentation**: Comprehensive README with setup instructions and technical details
+
+## 📱 How to Use for Resume
+
+1. **Link in Projects Section**: Use the GitHub repository link as your main project link
+2. **Demo Link**: Share the GitHub Pages link for quick preview of project details
+3. **Technical Interview**: Reference the detailed technical documentation
+4. **Portfolio Website**: Embed or link to showcase your mobile development skills
+
